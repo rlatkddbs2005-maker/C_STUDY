@@ -8,7 +8,7 @@ int main()
     scanf("%d", &num2);
     printf("num3을 입력해주세요");
     scanf("%d", &num3);
-    if (num1 > num2) && (num1 > num3)
+    if (num1 > num2 && num1 > num3)
     {
         printf("num1이 가장큰 수입니다.");
     }
